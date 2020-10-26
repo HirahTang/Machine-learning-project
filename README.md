@@ -1,5 +1,5 @@
 # Machine-learning-project
-Machine Learning Project and some Deep Learning Project
+Machine Learning Projects and some Deep Learning Projects
 
 ## 09.26.2020 - Linear Regression & Gradient Descent
 
