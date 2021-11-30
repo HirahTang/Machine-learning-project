@@ -1,5 +1,16 @@
+# Codes from O'Reilly Book: Deep Learning for Life Science
 
-# Honor Assignments of the Coursera Specialisation Advanced Machine Learning:
+## Chapter 3: Machine Learning with DeepChem
+
+A glance of the Tox21 dataset, simple usage for the DeepChem framework.
+
+## Chapter 4: Machine Learning for Molecules
+
+
+
+
+
+# Assignments of the Coursera Specialisation Advanced Machine Learning:
 
 ## Course 1: Introduction to Deep Learning
 
