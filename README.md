@@ -22,9 +22,9 @@ Implement Neural Networks using pure Numpy. Improve the vanilla neural network u
 
 ### Week 4 Unsupervised representation learning
 
-Assignment 1: Autoencoder
+##### Assignment 1: Autoencoder
 
-Honour Assignment: Generative Adversarial Network
+##### Honour Assignment: Generative Adversarial Network
 
 #### Assignment 1: Autoencoder
 
