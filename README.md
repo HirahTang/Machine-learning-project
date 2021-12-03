@@ -22,13 +22,11 @@ Implement Neural Networks using pure Numpy. Improve the vanilla neural network u
 
 ### Week 4 Unsupervised representation learning
 
-##### Assignment 1: Autoencoder
-
-##### Honour Assignment: Generative Adversarial Network
-
 #### Assignment 1: Autoencoder
 
 Encoder - Decoder architecture for peoples' faces. Include many interesting tasks (de-noise, finding similar faces, etc.)
+
+#### Honour Assignment: Generative Adversarial Network
 
 # Machine-learning-project
 Machine Learning Projects and some Deep Learning Projects
