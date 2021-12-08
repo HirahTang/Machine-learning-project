@@ -28,6 +28,10 @@ Encoder - Decoder architecture for peoples' faces. Include many interesting task
 
 #### Honour Assignment: Generative Adversarial Network
 
+### Week 5 
+
+#### Assignment 1: Generating names with RNNs
+
 # Machine-learning-project
 Machine Learning Projects and some Deep Learning Projects
 
