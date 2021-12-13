@@ -32,6 +32,8 @@ Encoder - Decoder architecture for peoples' faces. Include many interesting task
 
 #### Assignment 1: Generating names with RNNs
 
+#### Assignment 2: More RNNs in Keras
+
 # Machine-learning-project
 Machine Learning Projects and some Deep Learning Projects
 
