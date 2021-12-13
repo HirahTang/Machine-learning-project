@@ -6,7 +6,7 @@ A glance of the Tox21 dataset, simple usage for the DeepChem framework.
 
 ## Chapter 4: Machine Learning for Molecules
 
-
+Graph Convolutional Neural Networks for Molecule Property regression, and plotting molecular structure through RDKit.
 
 
 
