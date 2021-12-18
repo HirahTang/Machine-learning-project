@@ -34,6 +34,10 @@ Encoder - Decoder architecture for peoples' faces. Include many interesting task
 
 #### Assignment 2: More RNNs in Keras
 
+### Week 6
+
+#### Image Captioning Final Project
+
 # Machine-learning-project
 Machine Learning Projects and some Deep Learning Projects
 
