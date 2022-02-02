@@ -1,3 +1,7 @@
+# Stanford CS224W Machine Learning with Graphs by Jure Leskovec 
+
+http://web.stanford.edu/class/cs224w/index.html
+
 # Codes from O'Reilly Book: Deep Learning for Life Science
 
 ## Chapter 3: Machine Learning with DeepChem
